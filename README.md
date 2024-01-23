@@ -5,7 +5,7 @@ Este es un sitio web commerce creado con el framework react y hacer el uso de fa
 
 ## Demo
 
-https://www.google.com/
+https://ecommerce-basico-xi.vercel.app/
 
 ## Características
 
